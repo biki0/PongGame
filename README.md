@@ -2,6 +2,8 @@
 
 Pictures from the game!
 
+![gameplay](https://user-images.githubusercontent.com/58227328/103029514-f61bf300-4527-11eb-968d-b7c10a601954.gif)
+
 
 ![image](https://user-images.githubusercontent.com/58227328/103028156-29a94e00-4525-11eb-821e-b51bbf802428.png)
 
